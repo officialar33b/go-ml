@@ -1,0 +1,4 @@
+First thing to do is to collect the data.
+Second thing to do is to download samson zhangs model for image reconginition
+for that I would need to convert images into 100x100 pixel values and then add them to a csv file along with a (0,1) label.
+Than I would need to copy the logic for the neural network used by the Samson guy.
